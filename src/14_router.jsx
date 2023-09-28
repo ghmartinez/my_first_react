@@ -1,6 +1,8 @@
 import { BrowserRouter, Route, Routes} from 'react-router-dom';
 import Home from './pages/Home';
 
+// Debo añadir las rutas adecuadas de la web para crear una gestión de pagos.
+
 const Router = () => (
     <BrowserRouter>
         <Routes>
